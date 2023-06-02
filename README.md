@@ -1,10 +1,14 @@
-# Getting Started with Create React App
+# SkinCare Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project created by me and my team as an final exam project at the end of our bootcamp.
 
-## Available Scripts
+## Project description
 
-In the project directory, you can run:
+Keeping in mind the importance of conscious skin care, we created our webshop, during the operation of which we prioritized the user experience. We wanted to create something unique, so we also added an extra feature that also serves to increase the personalized user experience.
+
+## Usage
+
+This project has deployed to netlify: 
 
 ### `npm start`
 
