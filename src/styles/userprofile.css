@@ -4,8 +4,6 @@
     background-image: url('./fekvo8.jpg');
     background-position: left;
     background-size: 2000px;
-
-
 }
 
 .user-data-box {
@@ -27,14 +25,12 @@
     position:relative;
 }
 
-
 .user-data img{
     margin-top:150px;
     position:absolute;
     left:550px;
     bottom:20px;
 }
-
 
 .small-box {
     display: flex;
@@ -44,28 +40,22 @@
 
 }
 
-
-
 .userprofile-h2 {
     background-size: 130px;
     background-repeat: no-repeat;
     background-position: 43%;
     box-shadow: #3E312A;
     padding: 15px;
-    /* margin-bottom: 30px; */
-    /* margin-top: 30px; */
     font-size: 20px;
     background-color: white;
     box-shadow: 0 0 20px #eeddd3;
     font-weight: lighter;
 }
 
-
 .hello p {
     color: #3E312A;
     padding: 10px;
     font-family: 'Poppins', sans-serif;
-
 }
 
 label {
